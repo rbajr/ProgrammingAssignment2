@@ -1,4 +1,4 @@
-## R Programming Assignment 2:  
+## R Programming Assignment 2: 
 ## This script contains 2 functions, makeCacheMatrix and cacheSolve
 
 ## makeCacheMatrix accepts a matrix (for this exercise the matrix must be square and invertible)
